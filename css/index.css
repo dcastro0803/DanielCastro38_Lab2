@@ -1,0 +1,59 @@
+html {
+	padding: 0px 20px;
+	text-align: center;
+	margin: 0px;
+	background-color: #add7ff;
+	font-family: Verdana, sans-serif;
+	font-size: 12px; 
+}
+
+header {
+	border: 2px dashed black;
+}
+
+nav {
+	border-top: 2px dashed black;
+	
+}
+footer {
+	border-top: 2px dashed black;
+}
+
+div {
+	border: 2px dashed #c0c0c0;
+}
+main h3 {
+	border: 2px dashed black;
+	margin: 0px;
+	 background-color: #62d2f7; 
+}
+main h4 {
+	margin: 0px;
+	margin-top: 10px;  
+}
+
+/*
+body {
+	text-align: center;
+	padding: 0px;
+}
+
+header {
+	border: 2px dashed black;
+	margin-top: 10px; 
+	margin-bottom: 10px; 
+}
+nav {
+	border-top: 2px dashed black;
+	margin: 10px 0px;
+}
+
+div {
+	border: 2px dashed #DDDDDD;
+}
+
+#titlePage {
+	margin: 0px 0px;
+	padding: 0px 0px; 
+	background-color: red; 
+}
